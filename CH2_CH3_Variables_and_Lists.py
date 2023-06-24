@@ -1,11 +1,11 @@
-# firstname = "ada "
-# secondname = "lovelace"
-# full = f"{firstname} {secondname}"
-# print(f"Hello, {full.title()}!")
-# print(firstname)
+firstname = "ada "
+secondname = "lovelace"
+full = f"{firstname} {secondname}"
+print(f"Hello, {full.title()}!")
+print(firstname)
 
 # CLEANING INPUT STRINGS
-# firstname.rstrip() or firstname.lstrip()
+firstname.rstrip() or firstname.lstrip()
 
 ################## LISTS #######################
 moto = ["honda", "ducati", "suzuki"]
