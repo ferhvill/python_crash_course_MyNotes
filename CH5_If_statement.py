@@ -1,4 +1,4 @@
-list = ["one", "two", "three", "four"]
+list = ["uno", "dos", "tres", "cuatro"]
 a = "one" in list
 print(a)
 
